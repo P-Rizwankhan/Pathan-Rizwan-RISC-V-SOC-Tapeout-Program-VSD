@@ -1,2 +1,57 @@
-# Pathan-Rizwan-RISC-V-SOC-Tapeout-Program-VSD
-I am learning to design a System-on-Chip (SoC) from basic RTL to final GDSII using open-source tools as part of India’s largest collaborative RISC-V tapeout initiative. Through this experience, I join over 3,500 participants in building silicon and actively contributing to the nation’s growing semiconductor ecosystem.
+# ⚡ RISC-V Reference SoC Tapeout Program — VSD  
+
+Welcome to my journey through the **RISC-V SoC Tapeout Program (VSD)** 🚀  
+This repository documents my **week-by-week progress**, showcasing the tasks, milestones, and learnings as I move through the complete SoC design lifecycle.  
+
+The program takes me step by step — **from RTL design → verification → synthesis → GDSII generation → tapeout** — using **open-source tools**.  
+It is a part of **India’s largest collaborative RISC-V tapeout initiative** 🇮🇳, with 3,500+ participants contributing to advancing the nation's semiconductor ecosystem.  
+
+---
+
+## 📅 Week 0 — Setup & Tools  
+
+| Task | Description | Status |
+|------|-------------|--------|
+| [Task 1](https://github.com/Pathan-Rehman/PathanRehman_RISC-V-SoC-Tapeout-Program_VSD/blob/main/Week-0/Task-1/README.md) | Summary of the *Getting Started with Digital VLSI SoC Design & Planning* video: introduction to SoC workflow from application → RTL → tapeout. | ✅ Completed |
+| [Task 2](https://github.com/Pathan-Rehman/PathanRehman_RISC-V-SoC-Tapeout-Program_VSD/blob/main/Week-0/Task-2/README.md) | Installed essential **open-source EDA tools**: Icarus Verilog 🖥️, Yosys ⚙️, and GTKWave 📊 for simulation & synthesis. | ✅ Completed |
+
+---
+
+## 🌟 Key Learnings — Week 0  
+
+- Understood the **end-to-end VLSI SoC design flow**:
+  - Application modeling in C (with GCC / RISC-V GCC).  
+  - Processor specification validation.  
+  - RTL coding, simulation, SoC partitioning.  
+  - Physical implementation and chip fabrication (tapeout).  
+- Successfully set up the **development environment** with critical EDA tools.  
+- Built a strong foundation for:
+  - **RTL design verification**  
+  - **Logic synthesis with Yosys**  
+  - **Waveform visualization with GTKWave**  
+
+---
+
+## 🙏 Acknowledgments  
+
+I sincerely thank **[Kunal Ghosh](https://github.com/kunalg123)** and the entire team at **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for enabling me to be part of this groundbreaking program.  
+
+Special recognition to:  
+- **RISC-V International**  
+- **India Semiconductor Mission (ISM)**  
+- **VLSI Society of India (VSI)**  
+- **[Efabless](https://github.com/efabless)**  
+
+for their continuous support and collaboration 🙌  
+
+---
+
+## 🚀 What’s Next  
+
+This repository will continue to track my **progress week by week** as I advance into:  
+- RTL design & validation 🔍  
+- Synthesis & timing closure ⏱️  
+- Floorplanning & routing 🧩  
+- Final **tapeout → silicon** 🪙  
+
+Stay tuned for more updates as I continue this exciting **chip design & fabrication journey**! 🏆  
