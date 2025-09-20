@@ -13,7 +13,7 @@ It is a part of **India’s largest collaborative RISC-V tapeout initiative** �
 | Task | Description | Status |
 |------|-------------|--------|
 | [Task 1](https://github.com/P-Rizwankhan/Pathan-Rizwan-RISC-V-SOC-Tapeout-Program-VSD/tree/main/Week%200/Task-1) | Summary of the *Getting Started with Digital VLSI SoC Design & Planning* video: introduction to SoC workflow from application → RTL → tapeout. | ✅ Completed |
-| [Task 2](https://github.com/Pathan-Rehman/PathanRehman_RISC-V-SoC-Tapeout-Program_VSD/blob/main/Week-0/Task-2/README.md) | Installed essential **open-source EDA tools**: Icarus Verilog 🖥️, Yosys ⚙️, and GTKWave 📊 for simulation & synthesis. | ✅ Completed |
+| [Task 2](https://github.com/P-Rizwankhan/Pathan-Rizwan-RISC-V-SOC-Tapeout-Program-VSD/tree/main/Week%200/Task-2) | Installed essential **open-source EDA tools**: Icarus Verilog 🖥️, Yosys ⚙️, and GTKWave 📊 for simulation & synthesis. | ✅ Completed |
 
 ---
 
