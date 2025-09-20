@@ -49,6 +49,9 @@ sudo make install
 
 ✅ **Verification:** Yosys successfully installed
 
+![yosys](https://github.com/user-attachments/assets/ac0b6b20-ae2c-4e4e-8816-685e48389a18)
+
+
 ---
 
 ### 📟 2. Iverilog – Verilog Simulator
@@ -62,6 +65,9 @@ sudo apt-get install iverilog
 ```
 
 ✅ **Verification:** Iverilog successfully installed
+
+![iverilog](https://github.com/user-attachments/assets/49aa0aac-531c-4e81-9431-6e6500c6fa53)
+
 
 ---
 
@@ -78,6 +84,9 @@ sudo apt install gtkwave
 
 ✅ **Verification:** GTKWave successfully installed
 
+![gtkwave](https://github.com/user-attachments/assets/f21c3c28-cc4c-4d47-a8cb-bdc7f645ce73)
+
+
 ---
 
 ### ⚡ 4. Ngspice – Circuit Simulator
@@ -92,6 +101,9 @@ sudo apt install ngspice
 ```
 
 ✅ **Verification:** Ngspice successfully installed
+
+![ngspice](https://github.com/user-attachments/assets/f269e9d6-fb16-4282-88b1-b5fa266a5999)
+
 
 ---
 
@@ -117,6 +129,9 @@ sudo make install
 ```
 
 ✅ **Verification:** Magic VLSI successfully installed
+
+![magic](https://github.com/user-attachments/assets/87995eab-94cf-44ec-9197-0d155dd3dfb6)
+
 
 ---
 
