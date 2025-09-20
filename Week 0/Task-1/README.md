@@ -98,7 +98,6 @@ In this section, I walk through the sequential steps behind constructing a worki
 - **Synthesizable RTL:** Hardware code that can be directly turned into gates.  
 - **Functional RTL:** Used for simulation, not hardware generation.
 
-
 Heartfelt thanks to the **VSD team**, the vibrant global RISC-V community, and all program collaborators for enabling this innovative learning experience.
 
 ---
